@@ -5,6 +5,9 @@ I have learnt how interaction between human and computer works as well as rules 
 
 ## Coursework Assignment
 
+Based on coursework assignment specifications and requirements, I have designed two versions of UI prototypes for an advanced To-Do List Application that includes features like task dependencies. The design has to follow "Shneiderman's Eight Golden Rules of Interface Design". 
+
+The coursework involves two versions of UI prototypes as follows: 
 - Low-Fidelity Prototype
 - High-Fidelity Prototype
 
